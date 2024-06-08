@@ -1,2 +1,1 @@
-# TinDog
- A demo app version of Tinder
+TinDog Starting Files
